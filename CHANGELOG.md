@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/madhawapathum/devlog/compare/v1.0.0...v1.1.0) (2026-03-11)
+
+
+### Features
+
+* Storage completed ([37a83a9](https://github.com/madhawapathum/devlog/commit/37a83a97082e102e638b590ee39cd08cab125b3a))
+
 ## 1.0.0 (2026-03-10)
 
 
